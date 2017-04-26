@@ -3,7 +3,7 @@ Our goal is to create and disseminate a widely-agreed-upon standard for tagging 
 
 The Timeline Consortium was founded in 2016 by a group of researchers and technologists from academia and industry, working together.  
 
-We are open to new contributors and members.  Please contact us through timelineconsortium@gmail.com. 
+We are open to new contributors and members.  Please contact us through timelineconsortium@gmail.com. We also have a Basecamp channel where we discuss these topics, please contact us if you want to join.
 
 Read more here: Proposal to the Sloan Foundation that started this project.   
 List of active consortium members.
