@@ -1,27 +1,26 @@
 # Introduction
-Our goal is to create and disseminate a widely-agreed-upon standard for tagging rich but relatively unstructured online information (e.g. Wikipedia, articles, manuscripts, media archives, online course content) for use in rich timeline-style displays.  Related  calendar standards, disciplinary standards, and language-specific standards exist. Many of these standards are richly descriptive and flexible, but they are largely not interoperable–and they are not being used in mainstream education-oriented or research- oriented timeline software today. The lack of community-driven agreement on a common standard for describing and tagging the kinds of information that timeline tools need to import and then display is presently inhibiting researchers’ and learners’ abilities to understand and compare temporal sequences in pursuits ranging from Big History to Epidemiology to Criminology to Cell Biology. 
+Our goal is to create and disseminate a **widely-agreed-upon standard for tagging rich but relatively unstructured online information** (e.g. Wikipedia, articles, manuscripts, media archives, online course content) **for use in rich timeline-style displays.**  Related  calendar standards, disciplinary standards, and language-specific standards exist. Many of these standards are richly descriptive and flexible, but they are largely not interoperable–and they are not being used in mainstream education-oriented or research- oriented timeline software today. The lack of community-driven agreement on a common standard for describing and tagging the kinds of information that timeline tools need to import and then display is presently inhibiting researchers’ and learners’ abilities to understand and compare temporal sequences in pursuits ranging from Big History to Epidemiology to Criminology to Cell Biology. 
 
-The Timeline Consortium was founded in 2016 by a group of researchers and technologists from academia and industry, working together.  
+**The Timeline Consortium** was founded in 2016 by a group of researchers and technologists from academia and industry, working together.  
 
-We are open to new contributors and members.  Please contact us through timelineconsortium@gmail.com. We also have a Basecamp channel where we discuss these topics, please contact us if you want to join.
+*We are open to new contributors and members.  Please contact us through timelineconsortium@gmail.com. We also have a Basecamp channel where we discuss these topics, please contact us if you want to join.*
 
-Read more here: Proposal to the Sloan Foundation that started this project.   
-List of active consortium members.
+**Read more here**: 
+* [Proposal to the Sloan Foundation that started this project](https://drive.google.com/open?id=1DLoRhywUbXAhzMwWha_PXFhJST7fID1BK3l3f-TkWlc).   
+* [List of active consortium members](https://docs.google.com/document/d/1ZtUsAuhCPB4ljCT3e_39gp2s5mkG0YdgU2K-ZnmTFDU/edit).
 
-And, for reference, here are some of the Consortium members’ related projects: 
-* Timeline Storyteller (Matthew Brehmer, Bongshin Lee, & Nathalie Henry Riche, Microsoft Research)
-* TimeLineCurator (Johanna Fulda, Cumu8; Matthew Brehmer, Microsoft Research; Tamara Munzner, University of British Columbia) 
-* Timelines Revisited: A Design Space and Considerations for Expressive Storytelling. Matthew Brehmer, Bongshin Lee, Benjamin Bach, Nathalie Henry Riche, and Tamara Munzner. In IEEE Transactions on Visualization and Computer Graphics / TVCG  (in press) 
-* Perio.do (Adam Rabinowitz, U. Texas & Ryan Shaw, UNC)
-* Dataverse (Mercè Crosas, Gustavo Durand, Julian Gautier, Harvard) 
-* PredictionX (Alyssa Goodman, Harvard)
-* HarvardX courses on edX (Lichtenstein & Luis Duarte, Harvard)
-* Library Cloud (Wones, Harvard Library) 
-* Jamaican Slave Revolt Map/Timeline  (Vincent Brown, Harvard)
-* Force11 (Mercè Crosas, Harvard) 
-* Video Annotation Tool (repo) (description) (Luis Duarte, Harvard)
-
-(Intro in Google Doc: https://docs.google.com/document/d/18ky1yIBZXH6ItisiqIWaOpLS_SqvLTWn4kdWgtqjyd0/edit?ts=590105fd)
+**And, for reference**, here are some of the Consortium members’ **related projects:** 
+* [Timeline Storyteller](http://timelinestoryteller.org) (Matthew Brehmer, Bongshin Lee, & Nathalie Henry Riche, Microsoft Research)
+* [TimeLineCurator](http://timelinecurator.org) (Johanna Fulda, Cumu8; Matthew Brehmer, Microsoft Research; Tamara Munzner, University of British Columbia) 
+* [Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://timelinesrevisited.github.io/). Matthew Brehmer, Bongshin Lee, Benjamin Bach, Nathalie Henry Riche, and Tamara Munzner. In IEEE Transactions on Visualization and Computer Graphics / TVCG  (in press) 
+* [Perio.do](http://perio.do) (Adam Rabinowitz, U. Texas & Ryan Shaw, UNC)
+* [Dataverse](http://thedata.org) (Mercè Crosas, Gustavo Durand, Julian Gautier, Harvard) 
+* [PredictionX](https://www.edx.org/course/predictionx-john-snow-cholera-epidemic-harvardx-soc1-jsx) (Alyssa Goodman, Harvard)
+* [HarvardX](http://harvardx.harvard.edu/) courses on edX (Lichtenstein & Luis Duarte, Harvard)
+* [Library Cloud](http://library.harvard.edu/librarycloud) (Wones, Harvard Library) 
+* [Jamaican Slave Revolt Map/Timeline](http://revolt.axismaps.com/map/)  (Vincent Brown, Harvard)
+* [Force11](https://www.force11.org/) (Mercè Crosas, Harvard) 
+* Video Annotation Tool ([repo](https://github.com/lduarte1991/hxat)) ([description](http://annotation.chs.harvard.edu/about.php)) (Luis Duarte, Harvard)
 
 # Timeline-Standard
 Metadata standard for timelines.
