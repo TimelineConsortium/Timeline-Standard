@@ -7,7 +7,7 @@ Our goal is to create and disseminate a **widely-agreed-upon standard for taggin
 
 **Read more here**: 
 * [Proposal to the Sloan Foundation that started this project](https://drive.google.com/open?id=1DLoRhywUbXAhzMwWha_PXFhJST7fID1BK3l3f-TkWlc).   
-* [List of active consortium members](https://docs.google.com/document/d/1ZtUsAuhCPB4ljCT3e_39gp2s5mkG0YdgU2K-ZnmTFDU/edit).
+* [List of active consortium members](https://timelineconsortium.org/members).
 
 **And, for reference**, here are some of the Consortium members’ **related projects:** 
 * [Timeline Storyteller](http://timelinestoryteller.org) (Matthew Brehmer, Bongshin Lee, & Nathalie Henry Riche, Microsoft Research)
